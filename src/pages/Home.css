@@ -1,0 +1,17 @@
+.profile-card {
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.avatar-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+}
