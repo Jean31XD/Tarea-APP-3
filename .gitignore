@@ -19,8 +19,8 @@
 .env.production.local
 /.nx
 /.nx/cache
-/.vscode/*
-!/.vscode/extensions.json
+/.vscode/
+/.claude/
 .idea
 
 npm-debug.log*
